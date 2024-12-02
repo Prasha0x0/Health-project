@@ -1,0 +1,127 @@
+body {
+
+    background-color: lightblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 0;
+}
+
+img {
+    display: block; /* Removes default inline spacing for images */
+    margin: 0; /* Removes any default margins */
+    padding: 0;
+} 
+#pic1{
+    width:240px  ;
+    height:170px ;
+}
+
+#pic2{
+    width:270px  ;
+    height:170px ;
+}
+
+#pic3{
+    width:230px  ;
+    height:170px ;
+}
+
+#pic4{
+    width:220px  ;
+    height:170px ;
+}
+
+#pic5{
+    width:230px  ;
+    height:170px ;
+}
+
+#pic6{
+    width:225px  ;
+    height:170px ;
+}
+
+#pic7{
+    border-radius: 10px;
+    height:300px;
+     width:640px;
+    float:right;
+}
+
+#line {
+    clear: both; /* Ensures the hr tag clears any floating elements */
+    margin-top: 20px; /* Optional: Adds spacing above the hr */
+    text-align:"center";
+    width:50%;
+}   
+
+p {
+    font-family:'Fira Sans',sans-serif; 
+    padding: 12px;
+    color:black ;
+    
+  
+}
+       
+
+h2{
+    text-align: center;
+   padding: 7px;
+    background-color: blueviolet;
+    color:white;
+    border:4px solid blueviolet;
+  }
+
+h4{
+    font-family:'Fira Sans',sans-serif; 
+    
+    color:black ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+    
+.box{
+ text-align: center;
+ background-image: url("IMAGES6.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size:100% 120%;
+    }
+
+.forms{
+ text-align: center;
+ color: blue;
+ background-color:cyan;
+      }   
+
+.container{
+ text-align: center;	
+          }  
+
+.slide{
+    font-family: ALGERIAN;
+}
+
+a{
+color:rgb(167,1,78);
+text-decoration: none;
+margin:12px;
+
+}
+a:hover{
+text-decoration: underline;
+background-color: pink;
+}
+
+#pic{
+    width:200px  ;
+    height:200px ;
+    border-radius:250px;
+    float:left;
+}
+
+.container {
+    display: flex;
+}
+
+

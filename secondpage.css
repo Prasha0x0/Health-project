@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(227, 237, 171);
+}
+
+.box {
+    background-color: plum;
+    margin: 30px;
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.sty {
+    border-left: 5px solid rgb(120, 24, 168);
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+    align-items: flex-start; 
+    margin: 0 auto; 
+    max-width: 1200px; 
+}
+
